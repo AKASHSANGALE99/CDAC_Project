@@ -17,7 +17,7 @@ For detailed installation instructions for each component, please refer to their
 
 ## Usage
 
-Once Liquor Embassy E-Commerce Platform is running, you can explore and shop for a wide range of spirits and beverages. Discover and purchase your favorite products with ease.
+Once Liquor Embassy  is running, you can explore and shop for a wide range of spirits and beverages. Discover and purchase your favorite products with ease.
 
 ## Features
 
